@@ -1,0 +1,25 @@
+{
+  "name": "columnDiff",
+  "version": "0.0.1",
+  "description": "Diff Excel columns",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n/a"
+  },
+  "keywords": [
+    "columnDiff"
+  ],
+  "author": "Chris Hastings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a",
+  "devDependencies": {},
+  "dependencies": {
+  }
+}
